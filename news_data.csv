@@ -1,0 +1,31 @@
+rank,country,population,percent_pop,printed_daily_news,account_search,gov_press_agencies
+1,China,1411778724,17.9%,People's Daily,People's Daily  China,Xinhua News Agency
+2,India,1376882162,17.5%,The Times of India,The Times of India,Press Trust of India
+3,United States of America,331662070,4.22%,USA Today,USA Today  ,Reuters
+4,Indonesia,271350000,3.45%,Kompas,Kompas  Indonesia,Antara
+5,Pakistan,225200000,2.86%,Pakistan Times,Pakistan Times,Associated Press of Pakistan
+6,Brazil,213128391,2.71%,Folha de São Paulo,Folha de São Paulo  Brazil,Agência Brasil
+7,Nigeria,211401000,2.69%,Daily Times of Nigeria,Daily Times of Nigeria,News Agency of Nigeria
+8,Bangladesh,170656076,2.17%, The Daily Star, The Daily Star  Bangladesh,Bangladesh Sangbad Shangstha
+9,Russia,146171015,1.86%,Izvestia,Izvestia  Russia,RIA Novosti
+10,Mexico,126014024,1.60%,El Universal,El Universal  Mexico,Notimex
+11,Japan,125410000,1.59%,Yomiuri Shimbun,Yomiuri Shimbun  Japan,Jiji Press
+12,Ethiopia,117876000,1.50%,Addis Fortune,Addis Fortune  Ethiopia,Ethiopian News Agency 
+13,Phillipines,110215481,1.40%,Daily Tribune,Daily Tribune  Phillipines,Philippine News Agency
+14,Egypt,101861319,1.29%,Daily News Egypt,Daily News Egypt  Egypt,Middle East News Agency
+15,Vietnam,97580000,1.24%,Thanh_Niên,Thanh_Niên  Vietnam,Vietnam News Agency
+16,DR Congo,92378000,1.17%,L'Avenir,L'Avenir  DR Congo,NewsNow
+17,Iran,84438713,1.07%,Tehran Times,Tehran Times  Iran,Islamic Republic News Agency
+18,Turkey,83614362,1.06%,Hürriyet,Hürriyet  Turkey,Anadolu Ajansi
+19,Germany,83190556,1.06%,Bild,Bild  Germany,Deutsche Presse-Agentur
+20,France,67406000,0.857%,Le Monde,Le Monde  France,Agence France-Presse
+21,United Kingdom,66796807,0.849%,The Guardian,The Guardian  United Kingdom,Press Association
+22,Thailand,66645930,0.847%,Thai Rath,Thai Rath  Thailand,National News Bureau Of Thailand
+23,South Africa,59622350,0.758%,Daily Sun,Daily Sun  South Africa,South African Press Association
+24,Tanzania,59441988,0.756%,Daily News,Daily News  Tanzania,The Citizen Tanzania
+25,Italy,59226539,0.753%,Corriere della Sera,Corriere della Sera  Italy,Agenzia Nazionale Stampa Associata
+26,Myanmar,55294979,0.703%,The Voice Daily,The Voice Daily  Myanmar,Myanmar News Agency
+27,South Korea,51702100,0.657%,Chosun Ilbo,Chosun Ilbo  South Korea,Yonhap News Agency
+28,Colombia,51049498,0.649%,El Tiempo,El Tiempo  Colombia,ANNCOL
+29,Kenya,47564296,0.605%,The Daily Nation,The Daily Nation  Kenya,Kenya News Agency
+30,Spain,47351567,0.602%,El Pais,El Pais  Spain,Agencia EFE
